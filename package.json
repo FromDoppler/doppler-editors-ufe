@@ -4,7 +4,7 @@
   "private": true,
   "resolutions": {
     "@types/react": "18.3.18",
-    "@typescript-eslint/parser": "7.18.0"
+    "@typescript-eslint/parser": "8.20.0"
   },
   "devDependencies": {
     "@cspell/dict-es-es": "3.0.3",
